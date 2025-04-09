@@ -27,5 +27,15 @@ for(int i = 0; i < 8; i++)
 {
     printf("esquerda\n");
 }
+
+// movimento em L do cavalo //
+printf("Movimento em L do cavalo.\n");
+for(int i = 0; i < 2; i++)
+{
+    printf("Baixo.\n");
+}
+ printf("Esquerda.\n");
+
+
 return 0;
 }
